@@ -1,4 +1,4 @@
 cpp
 ===
 
-C++ repository
+Repo for my c++ code
